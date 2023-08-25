@@ -9,7 +9,9 @@ Tác giả: Nguyễn Chí Thành
 Trang chủ UniKeyNT Portable **[vào đây tải về](https://www.unikey.org/download.html)**
 
 Hoặc bấm vào link dưới đây để tải:
-1. **[UnikeyNT 4.3 RC5](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=Qmd9Kh)**
-2. **[UnikeyNT 4.3 RC4](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=cWMq65)**
+
+### [UniKey45RC1-230808](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhpqmIE496FLsEKx54Du8WMBVk4Ka_h9VL1MrPVH0C1TDQ?e=0d8ZtQ) ###
+### [UnikeyNT 4.3 RC5](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=Qmd9Kh) ###
+### [UnikeyNT 4.3 RC4](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=cWMq65) ###
 
 **[Download thêm bộ font VNI](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EUC1GiUdca9Ijzr9bnyC96cBwWnrPNzdDVWqoLS4LB-j0g?e=zgDbnW)**, download thêm bộ **[font học trò](https://bsthanh-my.sharepoint.com/:u:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EerJY7VHQvpOiIXq-KGCNWYB4Fz8r3fHK3OCctzVk4jkUQ?e=3FahVn)**, xem hướng dẫn **[tại đây](https://download.vn/cach-cai-them-font-vao-may-tinh-de-dung-unikey-7266)**
