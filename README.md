@@ -10,6 +10,7 @@ Trang chủ UniKeyNT Portable **[vào đây tải về](https://www.unikey.org/d
 
 Hoặc bấm vào link dưới đây để tải:
 
+### [unikey46RC2-230919](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EriiTDTE6eNDohYsPusytQQBHW_QxuXK7Avx8uERaYd_zg?e=brtScb) ###
 ### [UniKey45RC1-230808](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EhpqmIE496FLsEKx54Du8WMBVk4Ka_h9VL1MrPVH0C1TDQ?e=0d8ZtQ) ###
 ### [UnikeyNT 4.3 RC5](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=Qmd9Kh) ###
 ### [UnikeyNT 4.3 RC4](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EpuCtzay3pVMkk5d3vF5fNMBiApYIOFfh9XrTGEMf1AjJw?e=cWMq65) ###
